@@ -5,8 +5,7 @@ language: node_js
 addons:
   chrome: stable
 node_js:
-  - 'node'
-  - '8'
+  - '10'
 env:
   global:
     - GH_BASIC_CLIENT_ID=dummy
