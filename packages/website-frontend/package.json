@@ -1,6 +1,6 @@
 {
   "name": "@stryker-mutator/dashboard-frontend",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "main": "main.js",
   "typings": "main.d.ts",
   "scripts": {
@@ -36,8 +36,8 @@
     "@github/clipboard-copy-element": "^1.1.1",
     "@ng-bootstrap/ng-bootstrap": "~5.1.4",
     "@primer/octicons": "^9.3.1",
-    "@stryker-mutator/dashboard-common": "0.7.0",
-    "@stryker-mutator/dashboard-contract": "0.7.0",
+    "@stryker-mutator/dashboard-common": "0.7.1",
+    "@stryker-mutator/dashboard-contract": "0.7.1",
     "@stryker-mutator/karma-runner": "^2.4.0",
     "@types/jasmine": "~3.3.12",
     "@types/jasminewd2": "~2.0.6",

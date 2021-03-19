@@ -1,6 +1,6 @@
 {
   "name": "@stryker-mutator/dashboard-common",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "This package contains common utilities to be shared between the different dashboard components.",
   "scripts": {
     "test": "nyc --exclude 'dist/test/**/*.js' --exclude-after-remap false --check-coverage --reporter=html --report-dir=reports/coverage --lines 100 --functions 100 --branches 100 mocha \"dist/test/helpers/**/*.js\" \"dist/test/unit/**/*.js\"",
